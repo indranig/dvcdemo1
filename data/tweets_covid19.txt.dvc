@@ -1,0 +1,4 @@
+outs:
+- md5: ae91a68ae782ddbca21d94a8aa5de1b2
+  size: 150555
+  path: tweets_covid19.txt
